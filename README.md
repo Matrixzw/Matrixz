@@ -1,4 +1,4 @@
-# 给新生的一些information
+给新生的一些information
 
 **本文具有较强的主观性，自己衡量，仅供参考**
 
@@ -21,5 +21,17 @@
 
 1. 以前师范专业归属教师院（独立院系），好像这一届就要归到各个院系了，数学师范所属划到数学科学学院例如）
 2. 能源院在紫金，（一般的都在仙林校区），好像后年就要搬到仙林了。紫金厕所很不行。（能源号称转专业学院，变凤凰）
+3. 劝人学法，千刀万剐。
 4. 填报的时候没有标明师范的就不是师范专业。
 5. 填报之前看一下培养方案，会设置哪一些课程，不要看专业名称就开始填报，有些课很坑。
+
+## 专业学长学姐推销自己学校的链接：
+
+**其实每个学院都有招生推销，信息还是得自己甄别**
+
+[南师大本科招生网](http://bkzs.njnu.edu.cn/)
+
+@漫长的告白：  [教育科学学院: 未来教育家的摇篮](https://mp.weixin.qq.com/s?__biz=MzA5NzAyNzQ4NA==&mid=2650693765&idx=1&sn=c894c3bb03f49968e2a0480e32e56ffa&chksm=88add476bfda5d60ad8328f55df250204b5d7c5f83fe504eac985377a9f06c94fe4c2e9b5ec3&mpshare=1&scene=23&srcid=0626CbUZGeqDJIDvAN2Wdur7#rd)
+
+@第五言福：[社会学类，原来要这么学？](https://mp.weixin.qq.com/s?__biz=MzIzMjQxNjM1OA==&mid=100001726&idx=4&sn=8f5ac7dd4896cadb29f7b590e73fb13b&chksm=689472b75fe3fba1e9152ed996c073eb34d3db623589df71986240980dd40042680d84007774&mpshare=1&scene=23&srcid=0626JEgoLagdHGHuFGZgCgpH#rd)
+
