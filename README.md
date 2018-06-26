@@ -1,6 +1,4 @@
-# 目录
 
-[TOC]
 
 # 给新生的一些information
 
@@ -57,11 +55,11 @@ ID@LL一只一只山羊  [【浙江】2018招生答疑帖](http://tieba.baidu.co
 
 
 
-！[text](http://imgsrc.baidu.com/forum/w%3D580/sign=d089abd5733e6709be0045f70bc69fb8/20a1c3cec3fdfc03e54ab44ad83f8794a5c226eb.jpg)
+![text](http://imgsrc.baidu.com/forum/w%3D580/sign=d089abd5733e6709be0045f70bc69fb8/20a1c3cec3fdfc03e54ab44ad83f8794a5c226eb.jpg)
 
 
 
 
 
-​                                                                              _————————    by zzw 18.6.26_
+​                                                                              ————————    by zzw 18.6.26_
 
