@@ -1,38 +1,26 @@
-## Welcome to GitHub Pages
+# 给新生的一些information
 
-You can use the [editor on GitHub](https://github.com/Matrixzw/Matrixzw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**本文具有较强的主观性，自己衡量，仅供参考**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 转专业相关：
 
-### Markdown
+1. 南师大转专业比较容易。
+2. 英语师范和数学师范，数学要降级
+3. 好的专业转专业比较难：例如法学，汉语言文学，英语师范
+4. 非师范可以转师范专业，貌似需要第一学年不挂科，在第一学年第二学期有组织考试，英语必考。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 一些比较好的专业：
 
-```markdown
-Syntax highlighted code block
+1. 南师大地地科院很强，真的很很强（意味着有钱，为所欲为）
+2. 南师大生物有个基地班（保研率会高），生物要杀小白鼠。
+3. 一些南师大比较好的学科：马克思主义理论，教育学，中国语言文学，地理学，美术学。
+4. 不推荐南师大的数学，同类的可以选择的是江苏大学可以去了解一下。
+5. 师范专业都还行，师范专业很多人本科毕业就去当老师了。现在读研越来越多了。但还是有很多就业的。
 
-# Header 1
-## Header 2
-### Header 3
+## 一些可能需要的信息：
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Matrixzw/Matrixzw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. 以前师范专业归属教师院（独立院系），好像这一届就要归到各个院系了，数学师范所属划到数学科学学院例如）
+2. 能源院在紫金，（一般的都在仙林校区），好像后年就要搬到仙林了。紫金厕所很不行。（能源号称转专业学院，变凤凰）
+3. 劝人学法，千刀万剐。
+4. 填报的时候没有标明师范的就不是师范专业。
 
