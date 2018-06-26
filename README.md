@@ -31,7 +31,33 @@
 
 [南师大本科招生网](http://bkzs.njnu.edu.cn/)
 
+ID@LL一只一只山羊  [【浙江】2018招生答疑帖](http://tieba.baidu.com/p/5731570306)
+
 @漫长的告白：  [教育科学学院: 未来教育家的摇篮](https://mp.weixin.qq.com/s?__biz=MzA5NzAyNzQ4NA==&mid=2650693765&idx=1&sn=c894c3bb03f49968e2a0480e32e56ffa&chksm=88add476bfda5d60ad8328f55df250204b5d7c5f83fe504eac985377a9f06c94fe4c2e9b5ec3&mpshare=1&scene=23&srcid=0626CbUZGeqDJIDvAN2Wdur7#rd)
 
 @第五言福：[社会学类，原来要这么学？](https://mp.weixin.qq.com/s?__biz=MzIzMjQxNjM1OA==&mid=100001726&idx=4&sn=8f5ac7dd4896cadb29f7b590e73fb13b&chksm=689472b75fe3fba1e9152ed996c073eb34d3db623589df71986240980dd40042680d84007774&mpshare=1&scene=23&srcid=0626JEgoLagdHGHuFGZgCgpH#rd)
+
+
+
+## 浙江人南师大群：
+
+我不得不吐槽一下，为什么要搞这么多个群啊，大家都在一个群里不就行了吗
+
+浙江人在南师大：98511688 
+
+浙江人在南师大2.0：648341063
+
+南师18级浙江招生咨询：707200590
+
+南京师范大学浙江群：540355056
+
+
+
+
+
+
+
+
+
+​                                                                              _————————    by zzw 18.6.26_
 
